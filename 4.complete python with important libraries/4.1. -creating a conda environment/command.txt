@@ -1,0 +1,11 @@
+1.execute the following command to create environment : (for installing packages and environments)
+conda create -p venv python==3.12
+
+2. now activate the environment using :   conda activate venv/
+   and then give the path location of this venv folder 
+   
+3. then we need to install the kernel package using - pip install ipykernel
+   this package provides kernel to specific Jupiter notebook responsible for executing py code
+
+
+4. make a txt file called the requirements.txt in the folder where we store the venv folder
