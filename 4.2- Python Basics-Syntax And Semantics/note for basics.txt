@@ -1,9 +1,0 @@
-
-important concepts : 
-1. python is case sensitive which means variable "name"and "Name" are different.
-2.syntax and sematics
-3.indentation
-4.line continuation using blackslash
-5.the use of "type()" function
-6.type interface
-7.
