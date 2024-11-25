@@ -1,0 +1,7 @@
+this pdf covers all the basics of stats i.e
+1.intro to statistics
+2.types of statistics
+3.population and sample data
+4.types of sampling techniques
+5.types of data
+6.scales of measurement of data
