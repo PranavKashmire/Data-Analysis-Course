@@ -1,0 +1,9 @@
+topics covered are as :
+1.measure of central tendacny (mean , median , mode)
+2.measure of dispersion (range , variance , std deviation)
+3. imp interview ques - what is sample variance divided by n-1
+4.random variable
+5.percentile and quartile
+6. 5 no summary and plotting box plot
+7.histogram and skewness
+8. correlation and coefficient 

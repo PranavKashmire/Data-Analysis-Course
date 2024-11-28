@@ -1,0 +1,19 @@
+note :
+why is sample variance divided by n-1 ??
+- ans in image 3
+-It is also called as bassel correction .
+
+- bassel correction  : The Bessel correction is a statistical adjustment used in the calculation of sample variance and standard deviation. It accounts for the fact that a sample statistic tends to underestimate the true population variance. This correction ensures an unbiased estimate of the population variance.
+
+-  In a sample, using 
+𝑛
+n (without correction) underestimates the population variance because the sample mean 
+𝑥
+ˉ
+x
+ˉ
+  is itself an estimate. The correction (dividing by 
+𝑛
+−
+1
+n−1) compensates for this bias.
