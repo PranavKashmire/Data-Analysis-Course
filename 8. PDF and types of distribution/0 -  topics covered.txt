@@ -1,0 +1,13 @@
+1.pdf. pmf and cdf
+2. types of distributions
+3.bernoulli distribution
+4.binomial distribution
+5.poisson distribution
+6.Normal or gussian distribution
+7.standard normal distribution
+8.UNiform distribution
+9.Log normal Distribution
+10. 10 Power law distribution
+11. Pareto distribution
+12. central limit theorem
+13.Estimates
