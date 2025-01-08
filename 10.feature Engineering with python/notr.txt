@@ -1,2 +1,0 @@
-this part is not yet completed only we have studied 1 and 2 
-because feature engg is part of ML
