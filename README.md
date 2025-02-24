@@ -20,6 +20,10 @@ Here’s a breakdown of the topics covered during the bootcamp:
 
 8.Power BI,Power query editor and DAX
 
-7.Microsoft Excel - Basic to Advance
+7.Microsoft Excel - Basic to Advance(Dasboard 1 and 2)
 
 8.Tableau(Dasboard 1 and 2) and Tableau Prep Builder
+
+9.Snowflake
+
+10.
